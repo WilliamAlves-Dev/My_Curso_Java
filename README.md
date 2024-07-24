@@ -1,2 +1,2 @@
 # My_Curso_Java
- Meu repositório Java
+ Meu repositório Java de estudos.
