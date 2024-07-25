@@ -2,7 +2,7 @@ package com.william.mycursojava.aula13.hands_on;
 
 import java.util.Scanner;
 
-public class SuperTabuada {
+public class SuperTabuadaTabuada {
     public static void main(String[] args) {
         Scanner pergNum = new Scanner(System.in);
         System.out.println("Digite um número e eu lhe mostrarei sua tabuada COMPLETA: ");
