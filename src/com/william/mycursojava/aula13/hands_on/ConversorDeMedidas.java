@@ -1,22 +1,24 @@
 package com.william.mycursojava.aula13.hands_on;
 
 import java.util.Scanner;
+import java.util.Locale;
 
 public class ConversorDeMedidas {
     public static void main(String[] args) {
         Scanner pergMetro = new Scanner(System.in);
+        pergMetro.useLocale(Locale.US);
         System.out.println("Digite um número em metros: ");
-        float numMetro = pergMetro.nextFloat();
-        float km = numMetro / 1000;
-        float hm = numMetro / 100;
-        float dam = numMetro / 10;
-        float dm = numMetro * 10;
-        float cm = numMetro * 100;
-        float mm = numMetro * 1000;
+        double numMetro = pergMetro.nextDouble();
+        double km = numMetro / 1000;
+        double hm = numMetro / 100;
+        double dam = numMetro / 10;
+        double dm = numMetro * 10;
+        double cm = numMetro * 100;
+        double mm = numMetro * 1000;
 
-        System.out.println(numMetro + " metros são " + km + "km!");
-        System.out.println(numMetro + " metros são " + hm + "hm!");
-        System.out.println(numMetro + " metros são " + dam + "dam!");
+        System.out.format("%.1f metros são %.3fkm\n", numMetro, km);
+        System.out.format("%.1f metros são %.2fhm\n", numMetro, hm);
+        System.out.format("%.1f metros são %.1fdam\n", numMetro, dam);
         System.out.println(numMetro + " metros são " + dm + "dm!");
         System.out.println(numMetro + " metros são " + cm + "cm!");
         System.out.println(numMetro + " metros são " + mm + "mm!");
