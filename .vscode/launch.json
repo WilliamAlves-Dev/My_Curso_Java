@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PintandoParede",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.PintandoParede",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "VariavelBoolean",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula11.VariavelBoolean",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "VariavelChar",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula11.VariavelChar",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "VariavelFloatEDouble",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula11.VariavelFloatEDouble",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "VariavelInteira",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula11.VariavelInteira",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "EntradaDeDados",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula12.EntradaDeDados",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "ClasseMath",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.ClasseMath",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "GeradorDeNumeros",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.GeradorDeNumeros",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "OperadorAritmetico",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.OperadorAritmetico",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "OperadorDeAtribuicao",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.OperadorDeAtribuicao",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "OperadorLogicoETernario",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.OperadorLogicoETernario",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "OperadorRelacional",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.OperadorRelacional",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "OperadorUnario",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.OperadorUnario",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "AjusteSalarial",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.AjusteSalarial",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "AluguelDeCarro",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.AluguelDeCarro",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDeMedidas",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.ConversorDeMedidas",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDeMoedas",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.ConversorDeMoedas",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDeTemperatura",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.ConversorDeTemperatura",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "Descontos",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.Descontos",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "DobroTripoRaizQuadradaERaizCubica",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.DobroTripoRaizQuadradaERaizCubica",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "MediaAritmetica",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.MediaAritmetica",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "SucessorEAntecessor",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.SucessorEAntecessor",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "SuperTabuadaTabuada",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula13.hands_on.SuperTabuadaTabuada",
+            "projectName": "My_Curso_Java_d391aa75"
+        }
+    ]
+}
