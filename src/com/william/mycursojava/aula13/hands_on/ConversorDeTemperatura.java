@@ -2,6 +2,7 @@ package com.william.mycursojava.aula13.hands_on;
 
 import java.util.Scanner;
 import java.util.Locale;
+
 public class ConversorDeTemperatura {
     public static void main(String[] args) {
         Scanner pergTemperatura = new Scanner(System.in);

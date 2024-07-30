@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CondicionalSwitchCase",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.CondicionalSwitchCase",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalAninhada",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.CondicionalAninhada",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalIf",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.CondicionalIf",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
             "name": "PintandoParede",
             "request": "launch",
             "mainClass": "com.william.mycursojava.aula13.hands_on.PintandoParede",
