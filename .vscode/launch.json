@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AumentoSalario",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.AumentoSalario",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "Turno",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.Turno",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "OrdemDecrescente",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.OrdemDecrescente",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "PositivoOuNegativo",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.PositivoOuNegativo",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "JogoDaAdivinhacao",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.JogoDaAdivinhacao",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "Eleicao",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.Eleicao",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
             "name": "CondicionalSwitchCase",
             "request": "launch",
             "mainClass": "com.william.mycursojava.aula14.CondicionalSwitchCase",
