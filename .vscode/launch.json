@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.Triangulo",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "NotaAluno",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.NotaAluno",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "DiaDaSemana",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.DiaDaSemana",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "ImpostoDeRenda",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.ImpostoDeRenda",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
             "name": "AumentoSalario",
             "request": "launch",
             "mainClass": "com.william.mycursojava.aula14.hands_on.AumentoSalario",
