@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MiniCalculadora",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.MiniCalculadora",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
             "name": "Triangulo",
             "request": "launch",
             "mainClass": "com.william.mycursojava.aula14.hands_on.Triangulo",
