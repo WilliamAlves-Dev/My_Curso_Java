@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoopForPartesAusentes",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula15.LoopForPartesAusentes",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "LoopForWithMoreVariable",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula15.LoopForWithMoreVariable",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "LoopDoWhile",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula15.LoopDoWhile",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "LoopWhile",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula15.LoopWhile",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "AnoBissexto",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.AnoBissexto",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
+            "name": "Equacao",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula14.hands_on.Equacao",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
             "name": "MiniCalculadora",
             "request": "launch",
             "mainClass": "com.william.mycursojava.aula14.hands_on.MiniCalculadora",
