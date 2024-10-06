@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeUmADez",
+            "request": "launch",
+            "mainClass": "com.william.mycursojava.aula15.hands_on.DeUmADez",
+            "projectName": "My_Curso_Java_d391aa75"
+        },
+        {
+            "type": "java",
             "name": "LoopForPartesAusentes",
             "request": "launch",
             "mainClass": "com.william.mycursojava.aula15.LoopForPartesAusentes",
